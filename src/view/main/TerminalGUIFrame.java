@@ -1,0 +1,1 @@
+package view.main;import javax.swing.*;/** * Created by paulmaxwell on 7/2/17. */public class TerminalGUIFrame extends JFrame {    public TerminalGUIFrame() {        super("Terminal GUI");        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);        this.setVisible(true);    }}
